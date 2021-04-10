@@ -1,0 +1,9 @@
+#python program assignment 1 My_Captain
+
+r=float(input('input radius= '))
+print('radius= ',r)
+a= 3.142*r*r
+print("area of circle of radius ",r,"= ",a)
+
+r=input('input filename= ')
+print('the extension of the file is python')
